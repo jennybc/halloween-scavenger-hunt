@@ -32,7 +32,7 @@ This is designed to be used as a group in something like a virtual team meeting 
 
 <https://twitter.com/_tanho/status/1318168268616597508>
 
-![](pumpkins.jpeg)
+![](pumpkin.jpeg)
 
 -   [ ] Your new idea
 -   [ ] Your other new idea
