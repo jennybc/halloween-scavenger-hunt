@@ -28,5 +28,11 @@ This is designed to be used as a group in something like a virtual team meeting 
 
 “Because Oct 31 = Dec 25.”
 -   [ ] Geeky carved pumpkin
+
+
+<https://twitter.com/_tanho/status/1318168268616597508>
+
+![](pumpkins.jpeg)
+
 -   [ ] Your new idea
 -   [ ] Your other new idea
