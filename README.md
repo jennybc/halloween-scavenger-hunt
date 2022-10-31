@@ -14,13 +14,13 @@ This is designed to be used as a group in something like a virtual team meeting 
 
 -   [ ] Video of a scare
 
-<img src="Kapture 2022-10-31 at 11.38.32.gif">
-
 -   [ ] Funny gravestone
 
     ![](tombstone.jpg)
 
 -   [ ] Baby's first Halloween
+
+    ![](IMG_3381.jpg)
 
 -   [ ] Dressed up pet
 
@@ -29,6 +29,9 @@ This is designed to be used as a group in something like a virtual team meeting 
     ![](https://giphy.com/gifs/8NLO0SJCa9oTHYct3O)
 
 -   [ ] A CRAN package in Halloween form
+
+<img src="Kapture 2022-10-31 at 11.38.32.gif">
+
 
 -   [ ] Computer or data related costume
 
