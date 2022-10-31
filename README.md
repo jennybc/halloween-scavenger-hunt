@@ -14,6 +14,8 @@ This is designed to be used as a group in something like a virtual team meeting 
 
 -   [ ] Video of a scare
 
+![](Kapture%202022-10-31%20at%2011.38.32.gif)
+
 -   [ ] Funny gravestone
 
 -   [ ] Baby's first Halloween
