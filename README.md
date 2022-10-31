@@ -16,6 +16,7 @@ This is designed to be used as a group in something like a virtual team meeting 
 -   [ ] Funny gravestone
 -   [ ] Baby's first Halloween
 -   [ ] Dressed up pet
+    ![](https://giphy.com/gifs/8NLO0SJCa9oTHYct3O)
 -   [ ] A CRAN package in Halloween form
 -   [ ] Computer or data related costume
 
