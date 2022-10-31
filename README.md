@@ -18,7 +18,9 @@ This is designed to be used as a group in something like a virtual team meeting 
 
 -   [ ] Baby's first Halloween
 
--   [ ] Dressed up pet![](MVC-001S_2.JPG)
+-   [ ] Dressed up pet
+
+    ![](MVC-001S_2.JPG)
 
     ![](https://giphy.com/gifs/8NLO0SJCa9oTHYct3O)
 
