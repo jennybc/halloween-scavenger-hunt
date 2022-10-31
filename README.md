@@ -39,9 +39,13 @@ This is designed to be used as a group in something like a virtual team meeting 
 
 ![](vsbuffalo-halloween-costume.jpeg)
 
--   [ ] Computer or data related Halloween joke "Why do programmers always mix up Halloween and Christmas?"
+-   [ ] Computer or data related Halloween joke
 
-"Because Oct 31 = Dec 25." - [ ] Geeky carved pumpkin
+"Why do programmers always mix up Halloween and Christmas?"
+
+"Because Oct 31 = Dec 25."
+
+- [ ] Geeky carved pumpkin
 
 <https://twitter.com/_tanho/status/1318168268616597508>
 
