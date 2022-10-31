@@ -14,7 +14,7 @@ This is designed to be used as a group in something like a virtual team meeting 
 
 -   [ ] Video of a scare
 
-    ![](Kapture 2022-10-31 at 11.38.32.gif)
+<img src="Kapture 2022-10-31 at 11.38.32.gif">
 
 -   [ ] Funny gravestone
 
